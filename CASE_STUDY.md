@@ -808,7 +808,7 @@ graph TB
 
 <div align="center">
 
-**Prepared by: Product Management Team | Date: February 2026 | Confidential**
+**Prepared by: Vishesh Prajapati | Date: February 2026 **
 
 *This case study is a strategic product analysis intended for internal stakeholder review.*
 *All metrics are based on Q3 2025 data and projected models validated by the Data Science team.*
